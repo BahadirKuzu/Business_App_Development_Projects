@@ -1,0 +1,6 @@
+id,review,sentiment,aspects
+1,"The Apple Vision Pro is amazing, but it's very expensive.",Error,Error
+2,"I love the display quality, but the battery life could be better.",Error,Error
+3,"The design is sleek, but it feels a bit heavy on my head.",Error,Error
+4,"Not worth the price, although the features are innovative.",Error,Error
+5,Fantastic product! The user interface is intuitive and smooth.,Error,Error
